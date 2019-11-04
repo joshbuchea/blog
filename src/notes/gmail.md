@@ -3,8 +3,6 @@ title: Gmail
 date: '2019-11-03'
 ---
 
-# Gmail
-
 ## Keyboard Shortcuts
 
 ### Turn on keyboard shortcuts
