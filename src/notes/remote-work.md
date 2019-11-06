@@ -18,10 +18,15 @@ date: '2019-07-22'
 
 - [Automattic](https://automattic.com/) - all remote
 - [Auth0](https://auth0.com/)
+- [Axios Media](https://axios.com/)
 - [Echobind](https://echobind.com/) - all remote
+- [Egghead](https://egghead.io/) - all remote
+- [Formidable](https://formidable.com/)
+- [Gatsby](https://gatsbyjs.org/) - all remote
 - [Hims](https://www.forhims.com/) & [Hers](https://www.forhers.com/)
 - [Infinite Red](https://infinite.red/) - all remote
 - [Netguru](https://www.netguru.com/)
+- [Netlify](https://www.netlify.com/)
 - [Ockam](https://www.ockam.io/)
 - [SemanticBits](https://semanticbits.com/) - primarily remote
 - [This Dot Labs](https://thisdot.co/labs)
