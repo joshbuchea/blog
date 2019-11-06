@@ -7,10 +7,10 @@ Terminology related to business, technology, and project management:
 
 ## Acronyms
 
-- COB: Close of Business
-- DOM: Document Object Model
-- EOD: End of Day
-- POC: Proof of Concept
+- **COB**: Close of Business
+- **DOM**: Document Object Model
+- **EOD**: End of Day
+- **POC**: Proof of Concept
 
 ## Terms
 
