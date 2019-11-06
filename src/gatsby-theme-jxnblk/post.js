@@ -34,7 +34,7 @@ export default ({
         display: 'flex',
         alignItems: 'center',
       }}>
-      <div sx={{ variant: 'type.small', mr: 3, }}>{date}</div>
+      {/* <div sx={{ variant: 'type.small', mr: 3, }}>{date}</div> */}
       <Tweet
         text={title}
         url={location.href}
