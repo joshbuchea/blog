@@ -26,7 +26,7 @@ The [intrinsic-width](https://caniuse.com/#feat=intrinsic-width) page on [CanIUs
 
 ## Bugs
 
-### <textarea> placeholder becomes value (IE 11)
+### `<textarea>` placeholder becomes value (IE 11)
 
 This issue is caused by a [bug in IE 11](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/101525/) that Microsoft will not fix.
 
