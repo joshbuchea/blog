@@ -3,6 +3,10 @@ title: PHP
 date: '2019-11-09'
 ---
 
+- [PHP Best Practices](https://phpbestpractices.org/)
+- [PHP: The Right Way](http://www.phptherightway.com/)
+- [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+
 ## Frameworks
 
 - [Aura](http://auraphp.com/)
