@@ -5,9 +5,9 @@ categories:
 - React Native
 ---
 
-### Initialize new project
+## Initialize new project
 
-#### For React Native `0.60.0` or greater:
+### For React Native `0.60.0` or greater:
 
 Using `npx`:
 
@@ -15,7 +15,7 @@ Using `npx`:
 - TypeScript template: `npx react-native init ProjectName --template typescript`
 - Custom template: `npx react-native init ProjectName --template ${TEMPLATE_NAME}`
 
-#### For older React Native versions:
+### For older React Native versions:
 
 Using legacy `react-native-cli` package:
 
