@@ -58,7 +58,7 @@ export default ({
       <Styled.a href='https://twitter.com/joshbuchea'>
         Follow me on Twitter
       </Styled.a>
-      {' '}
-      for more great content like this.
+      {/* {' '}
+      for more great content like this. */}
     </div>
   </div>
