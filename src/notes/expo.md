@@ -18,12 +18,14 @@ categories:
 - Build (Android): `expo build:android`
 - Check Build Status: `expo build:status`
 
-**Note:** We enable bitcode for iOS, so the `.ipa` files for iOS are much larger than the eventual App Store download available to your users. For more information, see [App Thinning](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html).
+> **Note:** We enable bitcode for iOS, so the `.ipa` files for iOS are much larger than the eventual App Store download available to your users. For more information, see [App Thinning](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html).
 
 ## Submit to App Stores
 
-**Note:** Apple will ask you whether your app uses the IDFA. Because Expo depends on Segment Analytics, the answer is yes, and you'll need to check a couple boxes on the Apple submission form. See [Segment's Guide](https://segment.com/docs/sources/mobile/ios/quickstart/#step-5-submitting-to-the-app-store) for which specific boxes to fill in.
+> **Note:** Apple will ask you whether your app uses the IDFA. Because Expo depends on Segment Analytics, the answer is yes, and you'll need to check a couple boxes on the Apple submission form. See [Segment's Guide](https://segment.com/docs/sources/mobile/ios/quickstart/#step-5-submitting-to-the-app-store) for which specific boxes to fill in.
 
 ## References
 
 - [Expo Docs](https://docs.expo.io/versions/latest/)
+- [Building Standalone Apps](https://docs.expo.io/versions/latest/distribution/building-standalone-apps/)
+- [Uploading Apps to the Apple App Store and Google Play](https://docs.expo.io/versions/latest/distribution/uploading-apps/)
