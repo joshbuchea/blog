@@ -27,5 +27,7 @@ categories:
 ## References
 
 - [Expo Docs](https://docs.expo.io/versions/latest/)
+- [Expo CLI](https://docs.expo.io/versions/latest/workflow/expo-cli/)
+- [Configuration with app.json](https://docs.expo.io/versions/latest/workflow/configuration/)
 - [Building Standalone Apps](https://docs.expo.io/versions/latest/distribution/building-standalone-apps/)
 - [Uploading Apps to the Apple App Store and Google Play](https://docs.expo.io/versions/latest/distribution/uploading-apps/)
