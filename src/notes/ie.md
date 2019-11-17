@@ -1,6 +1,8 @@
 ---
 title: Internet Explorer
 date: '2019-11-06'
+categories:
+- Apps
 ---
 
 - Excellent list of what _is_ supported in IE: https://devhints.io/ie
