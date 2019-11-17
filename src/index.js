@@ -15,11 +15,11 @@ const Page = props => {
   return (
     <>
       <Helmet>
-        {/* <link
+        <link
           rel='icon'
           type='image/png'
           href='https://joshbuchea.com/favicon.png'
-        /> */}
+        />
         {/* <link
           rel='apple-touch-icon-precomposed'
           href='https://joshbuchea.com/avatar.png'
