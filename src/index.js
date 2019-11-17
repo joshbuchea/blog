@@ -30,6 +30,7 @@ const Page = props => {
         />
         <meta name='twitter:site' content='@joshbuchea' />
         {/* <meta name='og:image' content='https://joshbuchea.com/avatar.png' /> */}
+        <meta name='og:image' content='https://joshbuchea.com/avatar.jpg' />
         <title>{title}</title>
         <meta name='og:title' content={title} />
         <meta name='og:description' content={description} />
