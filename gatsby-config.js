@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'JB',
-    description: 'Josh Buchea',
+    description: "Josh Buchea's digital garden",
     siteUrl: 'https://joshbuchea.com'
   },
   plugins: [
