@@ -108,7 +108,7 @@ export default props => {
             variant: 'styles.navitem',
             mr: 3,
           }}>
-          <Avatar size={32} sx={{ mr: 2 }} />
+          {/* <Avatar size={32} sx={{ mr: 2 }} /> */}
           Josh Buchea
         </Styled.a>
         <Styled.a
@@ -150,9 +150,9 @@ export default props => {
             display: 'flex',
             justifyContent: 'center',
           }}>
-          <Link to='/avatar'>
+          {/* <Link to='/avatar'>
             <Avatar />
-          </Link>
+          </Link> */}
           <a
             href='https://twitter.com/joshbuchea'
             title='Twitter'
