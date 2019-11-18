@@ -4,12 +4,12 @@ import get from 'lodash.get'
 import Layout from './layout'
 
 const Page = props => {
-  let title = 'Josh Buchea'
+  let title = "Josh Buchea's digital garden"
   const postTitle = get(props.data, 'post.title')
   const description = get(props.data, 'post.excerpt')
 
   if (postTitle) {
-    title = `${postTitle} | ${title}`
+    title = `${postTitle} | Josh Buchea`
   }
 
   return (
