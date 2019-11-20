@@ -32,6 +32,11 @@ draft: true
 - [UIColor](http://uicolor.xyz/)
 - [WebAIM: Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
+### Email
+
+- [Just Good Copy](http://www.goodemailcopy.com/)
+- [The Magic Email](http://themagicemail.com/)
+
 ### Images
 
 - [Face Swap](https://reflect.tech/faceswap)
