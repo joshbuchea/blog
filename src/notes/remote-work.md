@@ -16,23 +16,50 @@ date: '2019-07-22'
 
 ## Companies
 
+- [1Password](https://1password.com/)
+- [Airtable](https://airtable.com/)
 - [Automattic](https://automattic.com/) - all remote
 - [Auth0](https://auth0.com/)
 - [Axios Media](https://axios.com/)
+- [Basecamp](https://basecamp.com/)
+- [Buffer](https://buffer.com/)
+- [Convert.com](https://convert.com/)
+- [Datadog](https://datadoghq.com/)
+- [DigitalOcean](https://digitalocean.com/)
+- [Discourse](https://discourse.org/)
+- [Docker](https://docker.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
 - [Echobind](https://echobind.com/) - all remote
+- [Elastic](https://elastic.co/)
 - [Egghead](https://egghead.io/) - all remote
+- [FirstbaseHQ](https://firstbasehq.com/)
 - [Formidable](https://formidable.com/)
 - [Gatsby](https://gatsbyjs.org/) - all remote
 - [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com) - all remote
 - [Hims](https://www.forhims.com/) & [Hers](https://www.forhers.com/)
+- [HubSpot](https://hubspot.com/)
+- [Hubstaff](https://hubstaff.com/)
+- [Lambda School](https://lambdaschool.com/)
 - [Infinite Red](https://infinite.red/) - all remote
+- [InsideTrack](https://insidetrack.com/)
+- [InVision](https://invisionapp.com/)
+- [MeetEdgar](https://meetedgar.com/)
 - [Netguru](https://www.netguru.com/)
 - [Netlify](https://www.netlify.com/)
+- [Red Hat](https://redhat.com/)
 - [Ockam](https://www.ockam.io/)
+- [Olark Live Chat](https://olark.com/)
+- [Puppet](https://puppet.com/)
 - [SemanticBits](https://semanticbits.com/) - primarily remote
+- [StackOverflow](https://stackoverflow.com/)
+- [Stripe](https://stripe.com/)
+- [Toggl](https://toggl.com/)
 - [This Dot Labs](https://thisdot.co/labs)
+- [Trello](https://trello.com/)
 - [Ultimate Software](https://www.ultimatesoftware.com/) - "very remote friendly and number ONE on the Best Places to Work in Tech by @FortuneMagazine"
 - [Unbird](https://unbird.com/)
+- [Webflow](https://webflow.com/)
 - [Zapier](https://zapier.com/) - all remote
 
 ## Resources
