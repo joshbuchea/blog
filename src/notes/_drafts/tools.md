@@ -46,6 +46,12 @@ _Tools in this category are all web-based_
 - [MxToolbox SuperTool](http://mxtoolbox.com/SuperTool.aspx)
 - [ViewDNS.info](http://viewdns.info/)
 
+### E-Commerce
+
+- [E-Commerce Design Inspiration](https://ecomm.design/)
+- [Dummy/Fake Credit Card Generator](http://saijogeorge.com/dummy-credit-card-generator/)
+- [Get Credit Card Numbers](http://www.getcreditcardnumbers.com/)
+
 ### Email
 
 - [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester-results)
