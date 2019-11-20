@@ -10,6 +10,8 @@ draft: true
 
 ## Web
 
+_Tools in this category are all web-based_
+
 - [BuiltWith Technology Lookup](http://builtwith.com/)
 - [Content Security Policy (CSP) Quick Reference Guide](http://content-security-policy.com/)
 - [DNSdumpster](https://dnsdumpster.com/)
@@ -73,18 +75,18 @@ draft: true
 - [Static Map Maker](http://staticmapmaker.com/)
 - [Yandex](https://tech.yandex.com/maps/)
 
-## Newsletters
+### Newsletters
 
 - [Campaign Monitor](https://www.campaignmonitor.com/)
 - [MailChimp](https://mailchimp.com/)
 
-## Project Management
+### Project Management
 
 - [Asana](https://asana.com/)
 - [Basecamp](https://basecamp.com/)
 - [Trello](https://trello.com/)
 
-### Regular Expressions
+#### Regular Expressions
 
 - [RegExr](http://regexr.com/)
 - [Regular Expressions 101](https://regex101.com/)
