@@ -50,6 +50,17 @@ draft: true
 - [JSONLint](http://jsonlint.com/)
 - [JSON Formatter & Validator](http://jsonformatter.curiousconcept.com/)
 
+### Maps 🗺
+
+- [Bing](https://www.microsoft.com/maps/)
+- [CartoDB](https://carto.com/docs/carto-engine/maps-api)
+- [Google](https://developers.google.com/maps/)
+- [HERE](https://developer.here.com/)
+- [Mapbox](https://www.mapbox.com/api-documentation/)
+- [MapQuest](https://developer.mapquest.com/documentation/)
+- [Static Map Maker](http://staticmapmaker.com/)
+- [Yandex](https://tech.yandex.com/maps/)
+
 ### Regular Expressions
 
 - [RegExr](http://regexr.com/)
