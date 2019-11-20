@@ -17,6 +17,7 @@ _Tools in this category are all web-based_
 - [DNSdumpster](https://dnsdumpster.com/)
 - [GitPrint](https://gitprint.com/)
 - [Hey Meta](https://www.heymeta.com/)
+- [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 - [Mobile Advertising Calculator](http://ryanmorel.com/mobile-advertising-calculator/)
 - [Online Curl Command Line Builder](https://curlbuilder.com/)
 - [Open Graph Check](https://opengraphcheck.com/)
