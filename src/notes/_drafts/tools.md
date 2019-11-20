@@ -13,7 +13,6 @@ draft: true
 - [BuiltWith Technology Lookup](http://builtwith.com/)
 - [Content Security Policy (CSP) Quick Reference Guide](http://content-security-policy.com/)
 - [DNSdumpster](https://dnsdumpster.com/)
-- [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester-results)
 - [GitPrint](https://gitprint.com/)
 - [Hey Meta](https://www.heymeta.com/)
 - [Mobile Advertising Calculator](http://ryanmorel.com/mobile-advertising-calculator/)
@@ -35,6 +34,7 @@ draft: true
 
 ### Email
 
+- [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester-results)
 - [Just Good Copy](http://www.goodemailcopy.com/)
 - [The Magic Email](http://themagicemail.com/)
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
