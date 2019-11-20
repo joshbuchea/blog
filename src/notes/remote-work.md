@@ -23,6 +23,7 @@ date: '2019-07-22'
 - [Egghead](https://egghead.io/) - all remote
 - [Formidable](https://formidable.com/)
 - [Gatsby](https://gatsbyjs.org/) - all remote
+- [GitHub](https://github.com/)
 - [Hims](https://www.forhims.com/) & [Hers](https://www.forhers.com/)
 - [Infinite Red](https://infinite.red/) - all remote
 - [Netguru](https://www.netguru.com/)
