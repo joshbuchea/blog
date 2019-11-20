@@ -1,6 +1,8 @@
 ---
 title: Static Sites - Forms
 date: '2015-12-23'
+categories:
+- Static Sites
 ---
 
 A few form processing solutions for static sites ([Jekyll](https://jekyllrb.com/), [GitHub Pages](https://pages.github.com/), etc.):
