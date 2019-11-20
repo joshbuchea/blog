@@ -18,8 +18,8 @@ date: '2019-07-22'
 
 - [1Password](https://1password.com/)
 - [Airtable](https://airtable.com/)
-- [Automattic](https://automattic.com/) - all remote
 - [Auth0](https://auth0.com/)
+- [Automattic](https://automattic.com/) - all remote
 - [Axios Media](https://axios.com/)
 - [Basecamp](https://basecamp.com/)
 - [Buffer](https://buffer.com/)
@@ -30,8 +30,8 @@ date: '2019-07-22'
 - [Docker](https://docker.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Echobind](https://echobind.com/) - all remote
-- [Elastic](https://elastic.co/)
 - [Egghead](https://egghead.io/) - all remote
+- [Elastic](https://elastic.co/)
 - [FirstbaseHQ](https://firstbasehq.com/)
 - [Formidable](https://formidable.com/)
 - [Gatsby](https://gatsbyjs.org/) - all remote
@@ -54,8 +54,8 @@ date: '2019-07-22'
 - [SemanticBits](https://semanticbits.com/) - primarily remote
 - [StackOverflow](https://stackoverflow.com/)
 - [Stripe](https://stripe.com/)
-- [Toggl](https://toggl.com/)
 - [This Dot Labs](https://thisdot.co/labs)
+- [Toggl](https://toggl.com/)
 - [Trello](https://trello.com/)
 - [Ultimate Software](https://www.ultimatesoftware.com/) - "very remote friendly and number ONE on the Best Places to Work in Tech by @FortuneMagazine"
 - [Unbird](https://unbird.com/)
