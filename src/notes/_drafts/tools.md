@@ -68,6 +68,17 @@ draft: true
 - [Static Map Maker](http://staticmapmaker.com/)
 - [Yandex](https://tech.yandex.com/maps/)
 
+## Newsletters
+
+- [Campaign Monitor](https://www.campaignmonitor.com/)
+- [MailChimp](https://mailchimp.com/)
+
+## Project Management
+
+- [Asana](https://asana.com/)
+- [Basecamp](https://basecamp.com/)
+- [Trello](https://trello.com/)
+
 ### Regular Expressions
 
 - [RegExr](http://regexr.com/)
