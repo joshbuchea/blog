@@ -1,6 +1,8 @@
 ---
 title: Google Chrome
 date: '2019-11-23'
+categories:
+- Apps
 ---
 
 - Toggle Bookmarks Bar: `⇧⌘B`
