@@ -65,10 +65,9 @@ date: '2019-07-22'
 ## Resources
 
 - [900+ Startups hiring Remotely in 2019 - by Remoteive.io : UPDATED - The List of Awesome!](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369) - Google Doc
-- [GitHub](https://github.com/) repos:
-  - [fuzz/remote](https://github.com/fuzz/remote) - A list of companies that use distributed teams
-  - [jeanlucaslima/Readme.md](https://gist.github.com/jeanlucaslima/1da263f81842058cf512a61d85ada4c1) - Remote Work Resources
-  - [lukas-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
+- [fuzz/remote](https://github.com/fuzz/remote) - A list of companies that use distributed teams
+- [jeanlucaslima/Readme.md](https://gist.github.com/jeanlucaslima/1da263f81842058cf512a61d85ada4c1) - Remote Work Resources
+- [lukas-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
 - [Remote Companies](https://remotive.io/remote-companies) - 2,000+ companies hiring remotely (via Remotive)
 - [Remote In Tech](https://remoteintech.company/) - A list of semi to fully remote-friendly companies in tech
 - [Remote only](https://www.remoteonly.org/)
