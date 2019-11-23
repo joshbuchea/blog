@@ -79,7 +79,7 @@ _Tools in this category are all web-based_
 - [The Magic Email](http://themagicemail.com/)
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
 
-## Freelancing
+### Freelancing
 
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer "List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!")
 
@@ -128,7 +128,7 @@ _Tools in this category are all web-based_
 - [Basecamp](https://basecamp.com/)
 - [Trello](https://trello.com/)
 
-#### Regular Expressions
+### Regular Expressions
 
 - [RegExr](http://regexr.com/)
 - [Regular Expressions 101](https://regex101.com/)
