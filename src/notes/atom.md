@@ -8,22 +8,22 @@ categories:
 ## Keyboard Shortcuts
 
 - Edit
-  - Move Line Up: `CTRL + CMD + Up`
-  - Move Line Down: `CTRL + CMD + Down`
-  - Duplicate Lines: `Shift + CMD + D`
+  - Move Line Up: `^⌘ + Up`
+  - Move Line Down: `^⌘ + Down`
+  - Duplicate Lines: `⇧⌘D`
 - Find
-  - Find File: `CMD + P`
-  - Select Next: Select text, then `CMD + D`
-  - Select All: Select text, then `CMD + CTRL + G`
+  - Find File: `⌘P`
+  - Select Next: Select text, then `⌘D`
+  - Select All: Select text, then `^⌘G`
 - Select
-  - Split into Lines: `Shift + CMD + L`
+  - Split into Lines: `⇧⌘L`
 - Packages
   - Command Palette
-    - Toggle: `Shift + CMD + P`
+    - Toggle: `⇧⌘P`
   - Symbols
-    - File Symbols: `CMD + R`
+    - File Symbols: `⌘R`
 
-- bookmarks: `CMD + F2`
+- bookmarks: `⌘F2`
 - code folding?
 
 ## Package Manager
