@@ -26,8 +26,23 @@ Dynamic features typically require external services to integrate with static si
 ## Hosting
 
 - [GitHub Pages](https://pages.github.com/)
-  - [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
-  - [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 - [GitLab Pages](https://pages.gitlab.io/)
 - [Surge](https://surge.sh/)
 - [ZEIT](https://zeit.co/)
+
+### GitHub Pages
+
+Pros:
+
+- Free hosting
+- Free full ssl
+
+Cons:
+
+- No 301s
+- No build step (autoprefixr)
+
+See also:
+
+- [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
+- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
