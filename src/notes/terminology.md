@@ -7,10 +7,16 @@ Terminology related to business, technology, and project management:
 
 ## Acronyms
 
+- **BRB**: Be Right Back
 - **COB**: Close of Business
 - **DOM**: Document Object Model
 - **EOD**: End of Day
+- **LMAO**: Laughing My Ass Off
+- **LOL**: Laugh Out Loud
+- **NSFW**: Not safe for work
 - **POC**: Proof of Concept
+- **TFW**: That feeling when
+- **TIL**: Today I Learned
 
 ## Terms
 
