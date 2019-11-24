@@ -3,16 +3,29 @@ title: Remote Work
 date: '2019-07-22'
 ---
 
-## Jobs
+## Benefits
 
-<!-- - [EpicJobs](https://epicjobs.co/)? - not remote only -->
-<!-- - [FlexJobs](https://www.flexjobs.com/) - paid service??? -->
-
-- [Remote](https://remote.com/)
-- [RemoteOK](https://remoteok.io/)
-- [RemoteML](https://remoteml.com/)
-- [Remotive](https://remotive.io/)
-- [We Work Remotely (WWR)](https://weworkremotely.com/)
+- ⏳ more time
+- 📅 flexible schedule
+- 🚗 save time/money with no commute
+- 🚗 family only needs one car
+- 👔 no expensive uniforms
+- 💄 less time/money on makeup
+- 👖 pants optional
+- 👨‍👩‍👧‍👦 more time with family
+- 🚸 get kids from school
+- 🍽 meals with family
+- 🍔 save a fortune on lunches
+- 🥗 healthy food options
+- 🌡 control temperature
+- 🔆 control lighting
+- 🚽 private bathroom
+- 🤧 no sick co-workers
+- 🍻 no after-work expectations
+- 📦 accept package deliveries
+- 🧺 laundry during small breaks
+- 🐕 no doggy care
+- 📢 feel heard by colleagues
 
 ## Companies
 
@@ -61,6 +74,17 @@ date: '2019-07-22'
 - [Unbird](https://unbird.com/)
 - [Webflow](https://webflow.com/)
 - [Zapier](https://zapier.com/) - all remote
+
+## Jobs
+
+<!-- - [EpicJobs](https://epicjobs.co/)? - not remote only -->
+<!-- - [FlexJobs](https://www.flexjobs.com/) - paid service??? -->
+
+- [Remote](https://remote.com/)
+- [RemoteOK](https://remoteok.io/)
+- [RemoteML](https://remoteml.com/)
+- [Remotive](https://remotive.io/)
+- [We Work Remotely (WWR)](https://weworkremotely.com/)
 
 ## Resources
 
