@@ -1,7 +1,6 @@
 ---
 title: React
 date: '2019-10-28'
-draft: true
 ---
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
