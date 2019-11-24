@@ -3,7 +3,7 @@ title: Jekyll
 date: '2019-11-04'
 ---
 
-- No autoprefixr without build step?
+- No autoprefixr without build step
 - No individual pages for data records
 - Categories & Tags
   - No individual page at `/tags/burritos`
