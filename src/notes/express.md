@@ -2,6 +2,8 @@
 ---
 title: Express
 date: '2019-11-23'
+categories:
+- JavaScript
 ---
 
 - Request Params: `req.params`

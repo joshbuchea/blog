@@ -1,6 +1,8 @@
 ---
 title: Jekyll
 date: '2019-11-04'
+categories:
+- Static Sites
 ---
 
 - No autoprefixr without build step
