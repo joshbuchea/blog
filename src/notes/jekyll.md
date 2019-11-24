@@ -3,9 +3,25 @@ title: Jekyll
 date: '2019-11-04'
 ---
 
+- No autoprefixr without build step?
+- No individual pages for data records
+- Categories & Tags
+  - No individual page at `/tags/burritos`
+  - but page at `/tags/` with **burrito** section, no problem :)
+- Recommended Posts?
+
 - Filter - Remove URL protocol & trailing slash: `{{ url | remove:'http://' | split:'/' | first }}`
 
-# Wrap N Items In A Row Tag
+## URL & BASEURL
+
+```yml
+site.url: https://domain.com # your domain
+site.baseurl: "/blog" # the path to your website (optionnal)
+```
+
+- Note: For root-level sites GitHub Pages assumes `site.baseurl: ""`.
+
+## Wrap N Items In A Row Tag
 
 ```md
 <!-- Wraps every three items in div.row -->

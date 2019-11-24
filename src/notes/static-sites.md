@@ -7,11 +7,27 @@ categories:
 
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 
+## Dynamic Features
+
+Dynamic features typically require external services to integrate with static sites.
+
+- Admin Interface
+- API
+- CMS
+- Database
+- E-Commerce
+- Forms
+- Guest Posts
+- Image CDN
+- Reviews/Recommendations
+- Search
+- User Accounts
+
 ## Hosting
 
 - [GitHub Pages](https://pages.github.com/)
-  - [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
   - [About supported custom domains](https://help.github.com/articles/about-supported-custom-domains/)
+  - [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 - [GitLab Pages](https://pages.gitlab.io/)
-- [ZEIT](https://zeit.co/)
 - [Surge](https://surge.sh/)
+- [ZEIT](https://zeit.co/)
