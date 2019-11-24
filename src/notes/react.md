@@ -1,6 +1,8 @@
 ---
 title: React
 date: '2019-10-28'
+categories:
+- JavaScript
 ---
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
