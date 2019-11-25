@@ -14,7 +14,7 @@ date: '2019-11-23'
 
 ### Escape Angle Brackets
 
-You can write \<foo> as `\<foo>` in GFM
+You can write \<MyComponent /> as `\<MyComponent />` in GFM
 
 - https://github.com/gollum/gollum/issues/713
 
