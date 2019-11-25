@@ -10,7 +10,7 @@ draft: true
 
 ## Web
 
-_Tools in this category are all web-based_
+<!-- _Tools in this category are all web-based_ -->
 
 - [BuiltWith Technology Lookup](http://builtwith.com/)
 - [Content Security Policy (CSP) Quick Reference Guide](http://content-security-policy.com/)
