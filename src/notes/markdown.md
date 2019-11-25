@@ -13,10 +13,13 @@ date: '2019-11-23'
 
 ## GitHub Flavored Markdown (GFM)
 
-Escape angle brackets in GFM (`<`, `>`): prefix line of text with `\` character like so: `\<head>`
-  - https://github.com/gollum/gollum/issues/713
+### Escape Angle Brackets
 
-Collapsable Content Section:
+You can write <foo> as `\<foo>` in GFM
+
+- https://github.com/gollum/gollum/issues/713
+
+### Collapsable Content Section
 
 ```html
 <details>
