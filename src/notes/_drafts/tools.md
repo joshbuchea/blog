@@ -76,6 +76,7 @@ draft: true
 
 - [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester-results)
 - [Just Good Copy](http://www.goodemailcopy.com/)
+- [Responsive Email Marketing Templates](https://templates.emailoctopus.com/)
 - [The Magic Email](http://themagicemail.com/)
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
 
