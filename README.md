@@ -9,13 +9,13 @@ Personal notes on design, development, and other things
 
 - [ ] Tidy up 🧹 ***
 - [ ] Verify all re-directed paths (`301`) ***
-- [ ] Add favicon ***
 - [ ] Disable/Verify RSS Feed?
 - [ ] Nice-to-haves
   - [ ] Global event handler to open external links in new tab/window
   - [ ] Add Projects on Index page
   - [ ] Add more detailed syntax highlighting for code blocks
-  - [ ] Add/Update Avatar (`avatar.png` & `avatar.svg`)
+  - [x] Add/Update Avatar (`avatar.png` & `avatar.svg`)
+- [x] Add favicon
 - [x] Publish to joshbuchea.com via Netlify
   - [x] Update Netlify App ID in badge below
   - [x] Re-create DNS Records *** 🚨
