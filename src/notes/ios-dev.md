@@ -9,17 +9,22 @@ categories:
 
 ### ios-sim & ios-deploy
 
-- Install `ios-sim`: `npm install -g ios-sim`
-- Install `ios-deploy`: `npm install -g ios-deploy`
+- Install [ios-sim](https://github.com/ios-control/ios-sim): `npm install -g ios-sim`
+- Install [ios-deploy](https://github.com/ios-control/ios-deploy): `npm install -g ios-deploy`
 - Launch simulator with app: `ios-sim start`
 - List devices: `ios-sim showdevicetypes`
-- Launch app on specific device: `ios-sim launch --devicetypeid DEVICE_TYPE_ID ~/Desktop/AppName.app`
-- Launch app on iPhone X: `ios-sim launch --devicetypeid iPhone-X ~/Desktop/AppName.app`
 
-Repos:
+Launch app on a specific device:
 
-- https://github.com/ios-control/ios-sim
-- https://github.com/ios-control/ios-deploy
+```bash
+ios-sim launch --devicetypeid DEVICE_TYPE_ID ~/Desktop/AppName.app
+```
+
+Launch app on iPhone X:
+
+```bash
+ios-sim launch --devicetypeid iPhone-X ~/Desktop/AppName.app
+```
 
 ### xcrun simctl
 
