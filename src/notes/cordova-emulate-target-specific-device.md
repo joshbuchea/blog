@@ -1,6 +1,8 @@
 ---
 title: "Cordova - Emulate Target Specific Device"
 date: '2015-05-25'
+categories:
+- Mobile Dev
 ---
 
 Target a specific device:
