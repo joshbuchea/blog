@@ -2,7 +2,7 @@
 title: React Native - UI Kits
 date: '2017-07-18'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 Below is a list of all of the React Native UI kits, frameworks, and libraries I could find. If there's any I missed, please [let me know](/contact/)!

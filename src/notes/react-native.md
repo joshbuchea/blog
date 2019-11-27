@@ -2,7 +2,7 @@
 title: React Native
 date: '2019-07-19'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 ## Initialize new project

@@ -2,7 +2,7 @@
 title: Change App Display Name in React Native
 date: '2019-11-12'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 ## Android

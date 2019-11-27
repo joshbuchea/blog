@@ -2,7 +2,7 @@
 title: Expo
 date: '2019-11-12'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 ## Get Started

@@ -2,7 +2,7 @@
 title: React Native - Books
 date: '2016-11-27'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 A list of React Native books on Amazon:

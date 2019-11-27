@@ -2,7 +2,7 @@
 title: "React Native - Text Size & Font Scaling"
 date: '2016-06-28'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 <div class="image-wrapper">

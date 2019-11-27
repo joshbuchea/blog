@@ -2,7 +2,7 @@
 title: "React Native - Set RootView Background Color"
 date: '2016-04-10'
 categories:
-- React Native
+- Mobile Dev
 ---
 
 In the RootView of a React Native app, the default background color is white. We can change this to another color by following the steps below.
