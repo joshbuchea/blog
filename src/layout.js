@@ -2,7 +2,8 @@
 import { jsx, Styled, useColorMode } from 'theme-ui'
 import { Link } from 'gatsby'
 import { Global } from '@emotion/core'
-import Avatar from './avatar'
+// import Avatar from './avatar'
+import MailchimpForm from './components/MailchimpForm'
 import {
   FaTwitter as Twitter,
   FaGithub as GitHub
@@ -126,6 +127,7 @@ export default props => {
           onClick={cycleMode}
         />
       </header>
+
       <main
         sx={{
           width: '100%',
@@ -136,6 +138,26 @@ export default props => {
         }}>
         {props.children}
       </main>
+
+      <div
+        sx={{
+          px: 3,
+          py: 5,
+          width: '100%',
+          maxWidth: 'wide',
+          mx: 'auto',
+        }}
+        // style={{ textAlign: 'center' }}
+      >
+        <h3 sx={{ variant: 'styles.h3' }}>
+          Get email updates and announcements
+        </h3>
+        {/* <p>A few reasons to sign-up for my mailing list...</p> */}
+        <MailchimpForm
+          action="https://joshbuchea.us20.list-manage.com/subscribe/post?u=d2cd3071564fbf7001bed1736&amp;id=d5283d8443"
+        />
+      </div>
+
       <footer
         sx={{
           px: 3,
