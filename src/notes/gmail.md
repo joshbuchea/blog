@@ -3,6 +3,18 @@ title: Gmail
 date: '2019-11-03'
 ---
 
+## Address Variants
+
+- Append a plus ("+") sign and any combination of words or numbers after your email address
+- Insert one or several dots (".") anywhere in your email address
+
+If your email address is `yourname@gmail.com`, variations include:
+
+- `your.name@gmail.com`
+- `yo.ur.na.me@gmail.com`
+- `yourname+donation@gmail.com`
+- `yourname+mailinglists@gmail.com`
+
 ## Keyboard Shortcuts
 
 ### Turn on keyboard shortcuts
@@ -72,6 +84,7 @@ date: '2019-11-03'
 
 ## References
 
+- [2 hidden ways to get more from your Gmail address](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html)
 - [Keyboard shortcuts for Gmail](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en)
 - [Check Gmail through other email platforms](https://support.google.com/mail/answer/7126229?visit_id=637084300480900667-2232639758&hl=en&rd=1)
 - [Read Gmail messages on other email clients using POP](https://support.google.com/mail/answer/7104828?hl=en&visit_id=637084300480900667-2232639758&rd=1)
