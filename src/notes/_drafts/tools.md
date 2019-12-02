@@ -75,9 +75,14 @@ draft: true
 ### Email
 
 - [Email Subject Line Tester](https://sendcheckit.com/email-subject-line-tester-results)
+- [Email Testing and Rendering - Email on Acid](https://www.emailonacid.com/)
 - [Just Good Copy](http://www.goodemailcopy.com/)
-- [Responsive Email Marketing Templates](https://templates.emailoctopus.com/)
 - [The Magic Email](http://themagicemail.com/)
+
+Templates:
+
+- [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+- [Responsive Email Marketing Templates](https://templates.emailoctopus.com/)
 - [ZURB Responsive Email Templates](http://zurb.com/playground/responsive-email-templates)
 
 ### Freelancing
