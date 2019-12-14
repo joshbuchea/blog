@@ -1,7 +1,6 @@
 ---
 title: The Best Deals for Students, Teachers, and Schools
 date: '2019-12-13'
-draft: true
 ---
 
 **[Amazon Prime Student](http://www.amazon.com/gp/student/signup/info?tag=edudealsclub-20) - Free**
