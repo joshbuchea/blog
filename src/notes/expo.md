@@ -5,6 +5,24 @@ categories:
 - Mobile Dev
 ---
 
+<!-- ## Pros / Benefits
+
+- Ads
+- Code Push
+- Push Notifications
+- Easy Publish
+- Easy Icons
+- Social Auth
+- Web Support (Coming soon!)
+- App Rating
+- Image Picker
+- Icons
+- Maps
+- SQLite
+- Contacts
+- Tabs Template (Optional)
+- Release Management? -->
+
 ## Get Started
 
 - Install Expo CLI: `npm install expo-cli --global`
