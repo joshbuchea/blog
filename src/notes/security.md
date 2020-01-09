@@ -18,6 +18,7 @@ It's a good idea to perform a security audit of your online accounts from time-t
 - App permissions: https://accounts.google.com/b/0/IssuedAuthSubTokens
 - Device Activity: https://myaccount.google.com/device-activity
 - Last Account Activity: https://support.google.com/mail/answer/45938?hl=en&ctx=gmail
+- Security Checkup: https://myaccount.google.com/security-checkup
 
 ### Twitter
 
