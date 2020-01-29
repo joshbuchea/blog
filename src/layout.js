@@ -199,10 +199,11 @@ export default props => {
             flexWrap: 'wrap',
             alignItems: 'center',
             fontSize: 0,
+            my: 2,
           }}>
-          <div sx={{ my: 2 }}>As an Amazon Associate I earn from qualifying purchases</div>
+          <div>As an Amazon Associate I earn from qualifying purchases</div>
           <div sx={{ mx: 'auto' }} />
-          <div sx={{ my: 2 }}>© 2019 Josh Buchea</div>
+          <div>© 2019 Josh Buchea</div>
         </div>
       </footer>
     </div>
