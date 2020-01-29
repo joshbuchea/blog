@@ -200,33 +200,7 @@ export default props => {
             alignItems: 'center',
             fontSize: 0,
           }}>
-          <Styled.a
-            as={Link}
-            to='/'
-            sx={{
-              variant: 'styles.navitem',
-              mr: 3,
-            }}>
-            Josh Buchea
-          </Styled.a>
-          <Styled.a
-            as={Link}
-            to='/notes'
-            sx={{
-              variant: 'styles.navitem',
-              mr: 3,
-            }}>
-            Notes
-          </Styled.a>
-          <Styled.a
-            as={Link}
-            to='/about'
-            sx={{
-              variant: 'styles.navitem',
-              mr: 4,
-            }}>
-            About
-          </Styled.a>
+          <div sx={{ my: 2 }}>As an Amazon Associate I earn from qualifying purchases</div>
           <div sx={{ mx: 'auto' }} />
           <div sx={{ my: 2 }}>© 2019 Josh Buchea</div>
         </div>
