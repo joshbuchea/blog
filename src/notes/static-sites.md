@@ -7,6 +7,12 @@ categories:
 
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services)
 
+Tips:
+
+- avoid cross-origin issues with old-school jsonp
+
+Why no static site?
+
 ## Dynamic Features
 
 Dynamic features typically require external services to integrate with static sites.

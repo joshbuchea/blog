@@ -31,6 +31,15 @@ My favorite podcast shows and episodes:
 - [Under the Radar](https://www.relay.fm/radar)
 - [Your Mom's House](http://www.yourmomshousepodcast.com/)
 
+Retired Shows:
+
+- [The Nitch Podcast](http://nitch.cc/podcast/)
+- [The Web Ahead](http://5by5.tv/webahead)
+
+<!-- - [JavaScript Jabber](http://devchat.tv/js-jabber/) -->
+- [The Big Web Show](http://5by5.tv/bigwebshow)
+- [The Boagworld Web Show](https://boagworld.com/show/)
+
 ## Episodes
 
 - [Design Details #235: Incremental Correctness (feat. Guillermo Rauch)](https://designdetails.simplecast.fm/238) <!-- - Interesting dive into Guillermo's philosophies for building products and more! -->
